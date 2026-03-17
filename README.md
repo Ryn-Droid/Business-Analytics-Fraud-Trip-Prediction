@@ -15,9 +15,9 @@ Proyek ini dikembangkan untuk kompetisi klasifikasi perjalanan dengan fokus utam
 ## 📊 Evaluation Results (Validation Set 90/10)
 | Metric | Score |
 | :--- | :--- |
-| **Macro F1 (Raw)** | 0.XXXXX |
-| **Macro F1 (Optimized)** | 0.XXXXX |
-| **Net Gain** | +0.0XXXX |
+| **Macro F1 (Raw)** | 0.57780 |
+| **Macro F1 (Optimized)** | 0.59044 |
+| **Net Gain** | +0.01263 |
 
 *Optimasi post-hoc berhasil meningkatkan performa kelas minoritas secara signifikan tanpa merusak stabilitas kelas mayoritas.*
 
